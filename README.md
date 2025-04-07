@@ -36,7 +36,6 @@ Once you're done, you can export your report as PDF or publish it directly to th
 # Step 5: Export the dashboard as PDF or publish to Power BI Service
 
 
-## 🖼️ Images
 
 
 
